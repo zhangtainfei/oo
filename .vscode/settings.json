@@ -1,7 +1,0 @@
-{
-    "python.testing.pytestArgs": [
-        "2_chapter"
-    ],
-    "python.testing.unittestEnabled": false,
-    "python.testing.pytestEnabled": true
-}
